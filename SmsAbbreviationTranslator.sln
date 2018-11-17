@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SmsAbbreviationTranslator", "SmsAbbreviationTranslator\SmsAbbreviationTranslator.pyproj", "{37C5453F-B382-43E3-925F-E4A2DEBB8B8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37C5453F-B382-43E3-925F-E4A2DEBB8B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C5453F-B382-43E3-925F-E4A2DEBB8B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C592D9D-A696-4BF4-98C4-D1F1D023A3A9}
+	EndGlobalSection
+EndGlobal
