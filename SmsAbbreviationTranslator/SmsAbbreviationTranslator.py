@@ -1,5 +1,5 @@
 
-# simple program for sms abbreviation translation 
+# simple program for sms abbreviation translation (for old people!!)
 
 import sys
 
