@@ -5,16 +5,16 @@
 import sys
 import json
 
-oldies = {"ROFL": "Rolling On Floor Laughing",
-           "LOL": "Laughing Out Loud",
-           "IMHO": "In My Honest Opinion",
-           "FYEO": "For Your Eyes Only",
-           "BTW": "By the Way",
-           "SCNR": "Sorry, could not Resist"}
+#oldies = {"ROFL": "Rolling On Floor Laughing",
+#           "LOL": "Laughing Out Loud",
+#           "IMHO": "In My Honest Opinion",
+#           "FYEO": "For Your Eyes Only",
+#           "BTW": "By the Way",
+#           "SCNR": "Sorry, could not Resist"}
 
-with open("abbreviations.txt", 'w') as f:
-     json.dump(oldies, f, indent=4)
-     print("Abbreviation added")
+#with open("abbreviations.txt", 'w') as f:
+#     json.dump(oldies, f, indent=4)
+#     print("Abbreviation added")
 
 
 def translate(abbreviated):

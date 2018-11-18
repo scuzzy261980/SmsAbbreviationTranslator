@@ -4,5 +4,6 @@
     "IMHO": "In My Honest Opinion",
     "FYEO": "For Your Eyes Only",
     "BTW": "By the Way",
-    "SCNR": "Sorry, could not Resist"
+    "SCNR": "Sorry, could not Resist",
+    "ATM": "At The Moment"
 }
