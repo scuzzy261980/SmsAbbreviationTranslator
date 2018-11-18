@@ -1,9 +1,20 @@
 {
     "ROFL": "Rolling On Floor Laughing",
-    "LOL": "Laughing Out Loud",
     "IMHO": "In My Honest Opinion",
     "FYEO": "For Your Eyes Only",
-    "BTW": "By the Way",
+    "BTW": "By The Way",
     "SCNR": "Sorry, could not Resist",
-    "ATM": "At The Moment"
+    "ATM": "At The Moment",
+    "AKA": "Also Known As",
+    "STFU": "Shut The F**k Up",
+    "IKR": "I Know, Right",
+    "LMK": "Let Me Know",
+    "OFC": "Of Course",
+    "LMFAO": "Laughing My Fu***ng Arse Off",
+    "SMH": "Shaking My Head",
+    "@TEOTD": "At The End Of The Day",
+    "AAMOF": "As A Matter Of Fact",
+    "AAK": "Alive And Kicking",
+    "B2W": "Back To Work",
+    "LOL": "Laughing Out Loud"
 }
